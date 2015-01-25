@@ -1,0 +1,2 @@
+# railsgirls
+just another repository
